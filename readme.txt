@@ -1,5 +1,5 @@
-=== Wordpress Tag Magic Widget ===
-Contributors: Ramachandran
+=== Wp Tag Magic Widget ===
+Contributors: Ramachandran Mariapan
 Tags: tag, category, cloud, widget
 Requires at least: 2.8
 Tested up to: 4.0
@@ -54,7 +54,7 @@ This will create a category cloud of parent category  1.
 
 Installing the plugin:
 
-1. Download Category Clouds and unzip
+1. Download Wp Tag magic and unzip
 2. Upload wp-tag-magic  folder to the /wp-content/plugins/ directory
 3. Activate the plugin through the ‘Plugins’ menu in WordPress
 4. Add the widget named :tag cloud (wp tag magic) to your sidebar through the ‘Appearance > Widgets’ menu
@@ -90,10 +90,8 @@ Examples
 * [tagmagic color="red"]
 
 == Screenshots ==
-Widget Options: http://www.guidingwp.com/wordpress-tag-magic-widget/
-Widget-configuration: http://www.guidingwp.com/wordpress-tag-magic-widget/
+Please visit plugin homepage: http://www.guidingwp.com/wordpress-tag-magic-widget/
 
-Output of Short code and Widget:
-Widget-shortcode-display
+== Changelog ==
 = 1.0 =
 * Initial version of the plugin
